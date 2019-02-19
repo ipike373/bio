@@ -1,0 +1,22 @@
+.middle{
+	background-color:#779499;
+	padding:20px 0px 20px 0px;
+}
+.top{
+	background-image:url(img/images-1.png);
+	height:50vh;
+	background-size:cover;
+	background-repeat:no-repeat;
+	text-align:center;
+}
+h1{
+	font-size:70px;
+	color:black;
+margin:0;
+}
+p{
+	color:black;
+}
+.bottom img{
+	width:50%; float:left;
+}
